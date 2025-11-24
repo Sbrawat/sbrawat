@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tixin.<br>🌱 I’m currently learning Backend Development.<br>👯 I’m looking to collaborate on Tixin.<br>💬 Ask me about anything.
+🔭 I’m currently working on [Tixin](https://tixin.in).<br>🌱 I’m currently learning Backend Development.<br>👯 I’m looking to collaborate on Tixin.<br>💬 Ask me about anything.
 
 
 ## 🌐 Socials:
