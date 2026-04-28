@@ -1,6 +1,6 @@
 # 💫 About Me:
-I’m currently learning Backend Development.<br>👯 
-<br>💬 Ask me about anything.
+I’m currently learning Backend Development.<br>
+💬 Ask me about anything.
 
 
 ## 🌐 Socials:
